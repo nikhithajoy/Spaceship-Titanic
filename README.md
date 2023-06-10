@@ -10,4 +10,5 @@ Key Features:
 
 Utilized SVM algorithm for classification
 Employed advanced feature engineering techniques to extract meaningful insights from the damaged computer system records
+
 Optimized the SVM model for performance and accuracy
