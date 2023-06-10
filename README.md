@@ -8,7 +8,8 @@ By leveraging SVM's ability to discern patterns and make accurate predictions, t
 
 Key Features:
 
-Utilized SVM algorithm for classification
-Employed advanced feature engineering techniques to extract meaningful insights from the damaged computer system records
+1. Utilized SVM algorithm for classification
 
-Optimized the SVM model for performance and accuracy
+2. Employed advanced feature engineering techniques to extract meaningful insights from the damaged computer system records
+
+3. Optimized the SVM model for performance and accuracy
