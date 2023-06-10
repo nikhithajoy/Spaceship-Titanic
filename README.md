@@ -1,7 +1,13 @@
 # Spaceship-Titanic
 
-Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery! In this Kaggle challenge, you have been enlisted to assist in rescuing passengers who were transported to an alternate dimension following a collision between the Spaceship Titanic and a spacetime anomaly near Alpha Centauri.
+Welcome to the year 2912, where a cosmic mystery awaits your data science skills. The Spaceship Titanic, an interstellar passenger liner, met an unfortunate fate when it collided with a hidden spacetime anomaly during its maiden voyage to three newly habitable exoplanets. Nearly half of the 13,000 passengers onboard were transported to an alternate dimension, leaving a challenging rescue mission.
 
-The Spaceship Titanic, an interstellar passenger liner carrying nearly 13,000 individuals, was on its inaugural voyage to three newly habitable exoplanets. However, tragedy struck when the ship collided with a hidden anomaly within a dust cloud, reminiscent of the ill-fated oceanic vessel of the past. While the ship remained intact, almost half of the passengers vanished into an alternate dimension.
+In this Kaggle challenge(https://www.kaggle.com/competitions/spaceship-titanic/overview), I present an SVM (Support Vector Machine) model designed to predict which passengers were transported by the anomaly, based on records recovered from the spaceship's damaged computer system. SVM is a powerful algorithm for classification tasks, well-suited for separating data points in high-dimensional space using hyperplanes.
 
-The mission is to utilize the recovered records from the spaceship's damaged computer system to predict which passengers were transported by the anomaly. By analyzing the available data and employing the data science expertise, we can assist the rescue crews in locating and retrieving the lost passengers.
+By leveraging SVM's ability to discern patterns and make accurate predictions, this model aims to assist the rescue crews in identifying the affected passengers, enabling their safe retrieval from the alternate dimension. Through meticulous feature engineering and model optimization, I have created a robust solution to this cosmic mystery.
+
+Key Features:
+
+Utilized SVM algorithm for classification
+Employed advanced feature engineering techniques to extract meaningful insights from the damaged computer system records
+Optimized the SVM model for performance and accuracy
